@@ -1,0 +1,32 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Byte-compiled / optimizados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribución / empaquetado
+build/
+dist/
+*.egg-info/
+
+# Archivos de entorno y secretos
+.env
+.env.*
+
+# Logs
+*.log
+
+# IDEs y editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
