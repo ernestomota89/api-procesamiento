@@ -125,3 +125,4 @@ api-procesamiento/
      --region us-central1 \
      --allow-unauthenticated
    ```
+Despliegue en Google Cloud Run.
